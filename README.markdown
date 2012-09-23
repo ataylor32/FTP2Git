@@ -10,9 +10,9 @@ What This Script Does
 
 1. Performs a one-way synchronization between the FTP folder(s) and the Git repository.
 
-2. Commits and pushes any changes that took place.
+2. Unmounts the FTP location.
 
-3. Unmounts the FTP location.
+3. Commits and pushes any changes that took place.
 
 4. Optionally sends an e-mail if an error occurs along the way.
 
